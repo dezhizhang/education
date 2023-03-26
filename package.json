@@ -1,7 +1,7 @@
 {
-  "name": "room",
+  "name": "education",
   "version": "1.0.0",
-  "description": "room",
+  "description": "education",
   "private": true,
   "egg": {
     "declarations": true
